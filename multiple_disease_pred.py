@@ -4,7 +4,7 @@ Created on Thu Aug  4 00:20:57 2022
 
 @author: Dell
 """
-
+import sklearn
 import pickle
 import streamlit as st
 
