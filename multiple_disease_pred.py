@@ -7,7 +7,7 @@ Created on Thu Aug  4 00:20:57 2022
 
 import pickle
 import streamlit as st
-import sklearn
+
 from streamlit_option_menu import option_menu
 
 diabetes_model = pickle.load(open('C:/Users/Dell/Desktop/Project/saved_model/diabetes_model.sav', 'rb'))
